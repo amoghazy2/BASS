@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c628a8ca-4ef3-40df-acf1-652e4fe6922b/microsoft.web/sites/subscriptions/c628a8ca-4ef3-40df-acf1-652e4fe6922b/resourceGroups/Zo2a/providers/Microsoft.Web/sites/AutoCadExtractor",
+    "appService.deploySubpath": "AutoCadExtractor"
+}
